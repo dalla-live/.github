@@ -1,4 +1,3 @@
 # Dalla Application Developers
 
-- [Web](https://www.dalbitlive.com/)
-- [Mobile](https://inforexseoul.page.link/Ws4t)
+- [달라 보러가기](https://inforexseoul.page.link/Ws4t)
